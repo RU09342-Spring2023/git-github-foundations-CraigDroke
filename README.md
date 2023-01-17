@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub Craig Droke
+# :wave: The Basics of GitHub - Craig Droke the best Programmer
 
 ## 🤓 Course overview and learning outcomes 
 
